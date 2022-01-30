@@ -21,7 +21,7 @@ setup(
     long_description_content_type="text/markdown",
     long_description=long_description,
     packages=find_packages(),
-    install_requires=[],
+    install_requires=['datetime'],
     keywords=['python', 'jokes', 'api-wrapper', 'api wrapper', 'nv443', 'requests'],
     classifiers=[
         "Development Status :: Stable Release",
